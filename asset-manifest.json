@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/rooseveltlacouronne/TBRC/static/css/main.4f244340.css",
+    "main.js": "/rooseveltlacouronne/TBRC/static/js/main.0b069e53.js",
+    "static/js/453.4bea442b.chunk.js": "/rooseveltlacouronne/TBRC/static/js/453.4bea442b.chunk.js",
+    "static/media/canva_certification.mp4": "/rooseveltlacouronne/TBRC/static/media/canva_certification.5562cc708e158b303f22.mp4",
+    "static/media/logo.jpeg": "/rooseveltlacouronne/TBRC/static/media/logo.d078bd2d52849ee8e513.jpeg",
+    "static/media/about.jpeg": "/rooseveltlacouronne/TBRC/static/media/about.56673b83ea4660c8ee19.jpeg",
+    "static/media/profile.jpeg": "/rooseveltlacouronne/TBRC/static/media/profile.b13c143c864581a39e8e.jpeg",
+    "index.html": "/rooseveltlacouronne/TBRC/index.html",
+    "main.4f244340.css.map": "/rooseveltlacouronne/TBRC/static/css/main.4f244340.css.map",
+    "main.0b069e53.js.map": "/rooseveltlacouronne/TBRC/static/js/main.0b069e53.js.map",
+    "453.4bea442b.chunk.js.map": "/rooseveltlacouronne/TBRC/static/js/453.4bea442b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f244340.css",
+    "static/js/main.0b069e53.js"
+  ]
+}
